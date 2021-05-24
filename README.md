@@ -7,6 +7,6 @@
   --------------------------------------------------------------------
   GET : /api/covid-case-info/
   --------------------------------------------------------------------
-   request format : {
-        "country_data": ["India","USA"]
-      }
+         request format : {
+              "country_data": ["India","USA"]
+            }
