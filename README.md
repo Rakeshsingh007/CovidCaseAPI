@@ -1,6 +1,8 @@
 # CovidCaseAPI
 
-API endpoint: 
+  API endpoint:
+  
+  
   Post : /api/covid-case-info/
   --------------------------------------------------------------------
   GET : /api/covid-case-info/
